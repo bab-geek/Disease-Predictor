@@ -1,7 +1,4 @@
-# Disease-Predictor
-
-
-> A production-ready machine learning toolkit for cardiovascular disease prediction using advanced ML algorithms and professional software engineering practices.
+Disease-Predictor
 
 Project Overview
 
@@ -41,7 +38,7 @@ graph TB
 - [Contributing](#contributing)
 - [License](#license)
 
- Installation
+Installation
 
 Prerequisites
 
